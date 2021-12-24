@@ -1,4 +1,4 @@
-# P-gina-de-um-bot-para-discord
+# Pagina de um bot para discord
 
 ##
 
